@@ -1,0 +1,25 @@
+div {
+    border: 1px solid white;
+}
+
+#container {
+    width: 608px;
+}
+
+#color-palette, #my-palette {
+    display: inline-block;
+    width: 300px; height: 500px;
+    overflow: hidden;
+}
+
+.square {
+    display: inline-block;
+    width: 28px; height: 28px;
+    cursor: grabbing;
+}
+
+body {
+    background-color: transparent;
+    background-color: black;
+}
+
